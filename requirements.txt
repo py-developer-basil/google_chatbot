@@ -1,0 +1,3 @@
+google-generativeai
+tkinter
+pickle-mixin  # Only needed if you're using pickle-mixin explicitly
